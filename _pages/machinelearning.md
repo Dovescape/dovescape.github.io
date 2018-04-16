@@ -5,6 +5,6 @@ title:"Machine Learning Posts by Tags"
 author_profile: true
 header:
   image:
-    feature:cover_image.jpg
-	path:cover_imag.jpg
+    feature: cover_image.jpg
+    path: cover_image.jpg
 ---
