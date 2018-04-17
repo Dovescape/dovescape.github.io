@@ -4,7 +4,7 @@ permalink: /machine-learning/
 title: "Machine Learning Posts by Tags"
 author_profile: true
 header:
-  image: "/images/cover_image.jpg"
+  image: "/images/parrot_banner.jpg"
 ---
 
 {% include base_path %}
